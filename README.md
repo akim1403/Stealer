@@ -61,7 +61,7 @@ npx expo start
 ---
 
 ## File Overview
-
+- the main file for the logic is loctaed in `stealer/app/(tabs)/explore.tsx`
 - `explore.tsx` — Main app logic using `expo-sensors`, React hooks, sliders, and alerts.
 
 ---
