@@ -5,6 +5,8 @@
 This mobile app uses your phone's built-in accelerometer (via gyroscope) to detect movement. If the phone is moved after a set delay, the app will trigger an **alarm alert**. It's perfect for anti-theft scenarios or simple movement detection experiments.
 
 ---
+An example video of this app can be found through this link:
+https://youtu.be/kgkKxWN8_UM
 
 ## Features
 
